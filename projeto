@@ -102,7 +102,7 @@ var médiasFinais, somaMédias, média, aprovados, percentualAprov, alunos, repr
 
 somaMédias = 0;
 aprovados = 0;
-alunos = 2;
+alunos = 40;
 
 médiasFinais = new Array(4);
 
